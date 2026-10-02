@@ -4,6 +4,8 @@ A wider field of view for a Mafia II first-person camera configuration on PC.
 
 This mod sets the main player-camera FOV to **120°**, indoors and outdoors, for standing, running, sprinting, climbing, and the normal aiming camera. The separate zoom-camera settings remain at **45°**.
 
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/bdedd9e1-81a6-4193-90d8-c24e5aca9c50" />
+
 ## Download
 
 [Download tables.sds](https://github.com/AygunVarol/mafia-ii-first-person-120-fov/releases/latest/download/tables.sds)
@@ -29,6 +31,8 @@ You can also download the ZIP package from the [Releases page](https://github.co
 4. Launch the game and try the wider first-person view.
 
 The directory above is a Definitive Edition installation example. Use the matching `pc/sds/tables` folder inside your own Mafia II installation.
+
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/21ee18c6-5b0a-4ed2-9b35-bc12e3445fc1" />
 
 ## Uninstall
 
